@@ -1,5 +1,5 @@
-* {
-    box-sizing: border-box;
+:root {
+    -color-primario: #ffffff;
 }
 
 body {
