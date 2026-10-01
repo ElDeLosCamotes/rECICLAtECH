@@ -113,11 +113,17 @@ footer {
 }
 .lider {
     padding: 1rem;
-    border-left: 4px solid;
+    border-left: 4px solid #ef6e51;
     background-color: #ffffff;
 }
 
 .div1 {
     padding: 1rem;
-    border-left: 4px; 
+    border-left: 4px solid #3572eb; 
+    background-color:#fff5f5;
+}
+.div2 {
+    padding: 1rem;
+    border-left: 4px solid #b7ddfc;
+    background-color: #ffffff;
 }
